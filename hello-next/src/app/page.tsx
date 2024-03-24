@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import styles from "./page.module.css";
-import Mensagem from "@/Components/mensagem";
+import Mensagem from "@/Components/Mensagem";
 
 const textoIntroducao = "Sou Desenvolvedor Front-End, implemento e crio aplicações tanto para a Web como para mobile"
 
